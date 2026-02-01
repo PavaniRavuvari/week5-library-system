@@ -21,9 +21,3 @@ It allows librarians to manage books, members, and borrowing operations efficien
 ## How to Run
 ```bash
 python -m library_system.main
-
-##What I Learned
-Designing real-world systems using classes and objects
-Working with multiple Python modules
-Implementing file persistence
-Using Git for version control
